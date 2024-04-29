@@ -3,7 +3,7 @@ A project to take my first steps with Vue JS. In this single page application yo
 
 
 <p align="center">
-    <img src ="SS.png" alt = "project demonstration" widht="100%" />
+    <img src ="images/project_demonstration.png" alt = "project demonstration" widht="100%" />
 </p>
 
 ## 🖥️ Project 
